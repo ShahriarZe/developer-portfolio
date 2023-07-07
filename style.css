@@ -1,0 +1,30 @@
+/* Nav Section */
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-image: url('images/developer.png');
+    width: 1600px;
+    height: 837px;
+    background-repeat: no-repeat;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+}
+nav a{
+    text-decoration: none;
+}
+nav > ul > li{
+    margin-right: 20px;
+}
+.nav-heading{
+    color: #181818;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    
+}
+span{
+   color:  #FD6E0A;
+}
+    
