@@ -54,6 +54,16 @@ span{
     font-size: 20px;
     font-weight: 700;
 }
+.button:hover{
+    background-color: #FFF8F3;
+    color: #FD6E0A;
+    border: 1px solid #FD6E0A;
+}
+.contact:hover{
+    background-color: #FD6E0A;
+    color:  #FFF;
+    border: 1px solid #FFF8F3;
+}
 .contact{
     background-color: #FFF8F3;
     color: #FD6E0A;
@@ -194,6 +204,7 @@ main{
     font-size: 35px;
     font-weight: 700;
     margin-top: 160px;
+    text-decoration: underline;
 }
 .resume-column-1 ,.resume-column-2{
     padding: 20px;
